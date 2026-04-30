@@ -7,7 +7,7 @@ Supports SRT, VTT, ASS formats with multiple translation APIs.
 
 __author__ = "Ming"
 __email__ = "l.umen@qq.com"
-__url__ = "https://github.com/yourname/subtitle-translator"
+__url__ = "https://github.com/lumenming/SubtitleTranslator"
 __version__ = "1.0.0"
 __license__ = "MIT"
 
